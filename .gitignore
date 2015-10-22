@@ -1,4 +1,5 @@
 db.sqlite3
 
-*.pyc
+lists/migrations/__pycache__/*
+lists/__pycache__/*
 .idea/*
